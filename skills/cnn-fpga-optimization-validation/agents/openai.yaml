@@ -1,0 +1,4 @@
+interface:
+  display_name: "CNN 轻量化与 FPGA 实测验证"
+  short_description: "贯通CNN轻量化、算法等价、RTL与PS集成、QSPI证据和真实帧率核验"
+  default_prompt: "请使用 $cnn-fpga-optimization-validation，先区分CNN轻量化的画质验收与冻结算法的实现等价，再按本次授权核验RTL/PS、上板/QSPI和真实FPS、重复显示、拒收帧及错误计数。"
